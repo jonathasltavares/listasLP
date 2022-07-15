@@ -1,6 +1,3 @@
-// Escreva um programa que leia duas vari ́aveis A e B e efetue a troca dos valores. O objetivo  ́e que a
-// vari ́avel A passe a conter o valor de B e a vari ́avel B passe a possuir o valor de A. Apresente os valores
-// ap ́os a efetiva ̧c ̃ao do processamento da troca.
 
 #include <stdio.h>
 

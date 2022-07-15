@@ -1,4 +1,3 @@
-// Faca um programa que leia uma quantidade de horas, minutos e segundos e imprima o total de segundos.
 
 #include <stdio.h>
 

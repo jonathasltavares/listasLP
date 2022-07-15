@@ -1,5 +1,3 @@
-// Diga a ordem de c ́alculo dos operadores em cada uma das instru ̧c ̃oes em C a seguir e mostre o valor
-// de x depois que cada instru ̧c ̃ao for executada.
 
 #include <stdio.h>
 

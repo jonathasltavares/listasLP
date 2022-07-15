@@ -1,5 +1,3 @@
-// Fazer um programa para ler as coordenadas x e y de dois pontos e calcular a distˆancia entre os dois
-// pontos no plano. (Utilize a fun ̧c ̃ao sqrt (numero), biblioteca math.h).
 
 #include <stdio.h>
 #include <stdlib.h>

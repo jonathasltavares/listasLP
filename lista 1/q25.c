@@ -1,5 +1,3 @@
-// Escreva um programa que leia um tempo em segundos e imprima quantas horas, minutos e segundos
-// h ́a neste tempo.
 
 #include <stdio.h>
 #include <stdlib.h>

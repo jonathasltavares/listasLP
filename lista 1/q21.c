@@ -1,5 +1,3 @@
-// Escreva um programa que leia dois inteiros e ent ̃ao determine e imprima se o primeiro  ́e m ́ultiplo do
-// segundo. Obs.: N ̃ao utilizar estrutura de decis ̃ao if.
 
 #include <stdio.h>
 #include <stdlib.h>

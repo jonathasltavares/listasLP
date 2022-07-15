@@ -1,6 +1,3 @@
-// Escreva um programa em C que imprima os inteiros equivalentes a algumas letras mai ́usculas, letras
-// min ́usculas e s ́ımbolos especiais. No m ́ınimo, determine os n ́umeros inteiros equivalentes ao conjunto
-// seguinte: A BCabc 0 12 $ * + / e o caractere espa ̧co em branco.
 
 #include <stdio.h>
 #include <stdlib.h>

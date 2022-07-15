@@ -1,5 +1,3 @@
-// Escreva um programa que receba um n ́umero inteiro e ent ̃ao determine e imprima se ele  ́e par ou  ́ımpar.
-// Obs.: N ̃ao utilizar estrutura de decis ̃ao if.
 
 #include <stdio.h>
 #include <stdlib.h>

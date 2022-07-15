@@ -1,5 +1,4 @@
-// Escreva um programa que leia um valor num ́erico inteiro e apresente como resultado os seus valores
-// sucessor e antecessor.
+
 
 #include <stdio.h>
 

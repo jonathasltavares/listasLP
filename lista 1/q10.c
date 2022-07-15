@@ -1,5 +1,4 @@
-// Escreva um programa que calcule e apresente o valor do volume de um caixa retangular utilizando a
-// f ́ormula VOLUME = COMPRIMENTO * LARGURA * ALTURA.
+
 
 #include <stdio.h>
 

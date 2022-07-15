@@ -1,5 +1,3 @@
-// Escrever um programa que receba um valor inteiro do usu ́ario e apresente o seu valor absoluto (m ́odulo).
-// N ̃ao utilize estrutura de decis ̃ao if.
 
 #include <stdio.h>
 #include <stdlib.h>
